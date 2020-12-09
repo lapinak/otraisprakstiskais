@@ -12,7 +12,10 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text style={styles.paragraph}>
-        Change code in the editor and watch it change on your phone! Save to get a shareable url.
+        Hello World from Group 1: Tomass Maļinovskis!
+      </Text>
+      <Text style={styles.paragraph}>
+        This is my Tomass Maļinovskis first React Native application
       </Text>
       <Card>
         <AssetExample />
